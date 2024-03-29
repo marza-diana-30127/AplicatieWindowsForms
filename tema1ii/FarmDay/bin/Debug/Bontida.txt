@@ -1,0 +1,9 @@
+Date: 23/07-02/8
+Price: 400$
+Age: 10Y-19Y
+Activities:
+  -battles with watter ballons
+  -games in nature
+  -braceles workshop
+  -how to braid workshop
+  -learn quitar

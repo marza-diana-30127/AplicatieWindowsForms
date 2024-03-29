@@ -1,0 +1,10 @@
+Date: every week of summer
+Price: 100$/week
+Age: any
+Activities:
+  -training
+  -visit our animals
+  -harvest gathering
+  -milk the cows
+  -haircut the sheeps
+  -time in nature

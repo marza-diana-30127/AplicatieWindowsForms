@@ -1,0 +1,10 @@
+C:\Users\diana\Desktop\tema1ii\FarmDay\bin\Debug\FarmDay.exe.config
+C:\Users\diana\Desktop\tema1ii\FarmDay\bin\Debug\FarmDay.exe
+C:\Users\diana\Desktop\tema1ii\FarmDay\bin\Debug\FarmDay.pdb
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.csprojAssemblyReference.cache
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.Form1.resources
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.Properties.Resources.resources
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.csproj.GenerateResource.cache
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.csproj.CoreCompileInputs.cache
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.exe
+C:\Users\diana\Desktop\tema1ii\FarmDay\obj\Debug\FarmDay.pdb

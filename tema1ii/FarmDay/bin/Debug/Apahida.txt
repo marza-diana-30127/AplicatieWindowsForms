@@ -1,0 +1,9 @@
+Date: 02/05-02/06
+Price: 1000$
+Age: any
+Activities:
+    -collect honey
+    -learn about bee's
+    -camp fire
+    -picnic in nature
+    -more surprises
